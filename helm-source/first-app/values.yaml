@@ -56,6 +56,10 @@ ingress:
   #    hosts:
   #      - chart-example.local
 
+pvc:
+  storage_size: 1Gi
+  storage_class: nfs
+
 resources:
   limits:
     cpu: 100m
