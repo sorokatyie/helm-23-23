@@ -45,7 +45,7 @@ ingress:
   className: ""
   annotations:
     kubernetes.io/ingress.class: nginx
-    nginx.ingress.kubernetes.io/server-alias: "helm-alias.k8s-20.sa"
+    nginx.ingress.kubernetes.io/server-alias: "helm-alias.k8s-19.sa"
   hosts:
     - host: helm.k8s-20.sa
       paths:
