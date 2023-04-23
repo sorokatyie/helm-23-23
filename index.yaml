@@ -9,7 +9,7 @@ entries:
     name: first-app
     type: application
     urls:
-    - https://pluhin.github.io/helm-23-23/helm-releases/first-app-0.2.0.tgz
+    - https://sorokatyie.github.io/helm-23-23/helm-releases/first-app-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
@@ -19,6 +19,6 @@ entries:
     name: first-app
     type: application
     urls:
-    - https://pluhin.github.io/helm-23-23/helm-releases/first-app-0.1.0.tgz
+    - https://sorokatyie.github.io/helm-23-23/helm-releases/first-app-0.1.0.tgz
     version: 0.1.0
 generated: "2023-03-27T17:18:50.239026272Z"
